@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://github.com/GermandF/GermandF/blob/main/grimm-wallpaper.gif?raw=true)
+
 <!--
 **Germandf/GermandF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
