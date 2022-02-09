@@ -5,6 +5,7 @@
     <li>📚 Learning .Net Ecosystem</li>
     <li>🍰 20 years old</li>
     <li>😆 Fun fact: zzz</li>
+    <li>🚀 Blazor Wasm hosted with Github Pages and automated with Github Actions: <a target="_blank" href="https://germandf.github.io/GithubPagesDemo/">Deployed Site</a> - <a target="_blank" href="https://github.com/Germandf/GithubPagesDemo">Project Page</a></li>
   </ul>
 <div/>
    
