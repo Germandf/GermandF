@@ -1,10 +1,10 @@
 <div>
   <h1>Hi there 👋😎</h1>
   <ul>
-    <li>🔨 I’m currently working on Eternet's new website and Api Gateway</li>
+    <li>🔨 Mainly working on Eternet's new website and some other apps or apis for internal use too</li>
     <li>📚 Learning .Net Ecosystem</li>
-    <li>🍰 20 years old</li>
-    <li>😆 Fun fact: zzz</li>
+    <li>🍰 21 years old</li>
+    <li>😆 Fun fact: ¯\_(ツ)_/¯</li>
     <li>🚀 Blazor Wasm hosted with Github Pages and automated with Github Actions: <a target="_blank" href="https://germandf.github.io/GithubPagesDemo/">Deployed Site</a> - <a target="_blank" href="https://github.com/Germandf/GithubPagesDemo">Project Page</a></li>
   </ul>
 <div/>
