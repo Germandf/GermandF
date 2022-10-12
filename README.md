@@ -1,11 +1,11 @@
 <div>
   <h1>Hi there 👋😎</h1>
   <ul>
-    <li>🔨 Mainly working on Eternet's new website and some other apps or apis for internal use too</li>
-    <li>📚 Learning .Net Ecosystem</li>
-    <li>🍰 21 years old</li>
+    <li>🔨 Working for Eternet (in our <a target="_blank" href="https://eternet.com.ar">Website</a> and internal use apps)</li>
+    <li>📚 Focusing on .Net Ecosystem</li>
+    <li>🍰 14/02/2001 (do maths, i don't want to update my age every year)</li>
     <li>😆 Fun fact: ¯\_(ツ)_/¯</li>
-    <li>🚀 Blazor Wasm hosted with Github Pages and automated with Github Actions: <a target="_blank" href="https://germandf.github.io/GithubPagesDemo/">Deployed Site</a> - <a target="_blank" href="https://github.com/Germandf/GithubPagesDemo">Project Page</a></li>
+    <li>🚀 My <a target="_blank" href="https://germandf.live">Portfolio</a></li>
   </ul>
 <div/>
    
