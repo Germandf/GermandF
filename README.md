@@ -1,10 +1,8 @@
 <div>
-  <h1>Hi there 👋😎</h1>
+  <h1>👋😎</h1>
   <ul>
-    <li>🔨 Working for Eternet (e.g. the <a target="_blank" href="https://eternet.com.ar">Website</a>, among others)</li>
-    <li>📚 Focusing on .Net</li>
+    <li>🔨 Working at <a target="_blank" href="https://eternet.com.ar">Eternet</a></li>
     <li>🍰 14/02/2001</li>
-    <li>🚀 My <a target="_blank" href="https://germandf.live">Portfolio</a></li>
   </ul>
 <div/>
    
@@ -22,5 +20,6 @@
 <div/>
 
 <!--
-Hay ideas robadas como loco xD
+EASTER EGG
+Todo robado/copiado 😎
 -->
