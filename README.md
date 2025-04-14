@@ -1,25 +1,9 @@
-<div>
-  <h1>👋😎</h1>
-  <ul>
-    <li>🔨 Working at <a target="_blank" href="https://eternet.com.ar">Eternet</a></li>
-    <li>🍰 14/02/2001</li>
-  </ul>
-<div/>
-   
-<div>
-  <table>
-  <tr>
-    <td valign="top">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=germandf&show_icons=true&theme=dark" alt="stats" />
-    </td>
-    <td valign="top">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germandf&layout=compact&hide=html&theme=dark" alt="languages" />
-    </td>
-  </tr>
-</table>
-<div/>
+# Hello there 👋😎
+- 🔨 Working at [Eternet](https://eternet.com.ar)
+- 🍰 2001-02-14
 
-<!--
-EASTER EGG
-Todo robado/copiado 😎
--->
+![stats](https://github-readme-stats.vercel.app/api?username=germandf&show_icons=true&theme=dark)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=germandf&layout=compact&hide=html&theme=dark)
+
+![tryhackme](https://tryhackme-badges.s3.amazonaws.com/GermandF.png)
