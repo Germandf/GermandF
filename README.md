@@ -6,4 +6,4 @@
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=germandf&layout=compact&theme=dark&hide=html,css,smarty)
 
-![tryhackme](https://tryhackme-badges.s3.amazonaws.com/GermandF.png)
+[![tryhackme](https://tryhackme-badges.s3.amazonaws.com/GermandF.png?v2)](https://tryhackme.com/p/GermandF)
